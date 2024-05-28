@@ -1,6 +1,5 @@
 import java.util.Arrays;
 import java.util.List;
-import java.util.function.Consumer;
 
 public class Desafio3 {
     //Desafio 3 - Verifique se todos os números da lista são positivos:
